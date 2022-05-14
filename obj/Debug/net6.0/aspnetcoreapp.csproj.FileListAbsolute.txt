@@ -1,0 +1,4 @@
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Debug\net6.0\aspnetcoreapp.exe
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Debug\net6.0\aspnetcoreapp.dll
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Debug\net6.0\Microsoft.FeatureManagement.dll
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Debug\net6.0\Microsoft.FeatureManagement.AspNetCore.dll

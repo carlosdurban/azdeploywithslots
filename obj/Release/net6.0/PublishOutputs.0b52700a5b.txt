@@ -1,0 +1,9 @@
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.exe
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\appsettings.json
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.dll
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.deps.json
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.runtimeconfig.json
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.pdb
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\Microsoft.FeatureManagement.dll
+C:\Proyectos\Curso Azure dev\FeatureFlag\aspnetcoreapp\bin\Release\net6.0\publish\Microsoft.FeatureManagement.AspNetCore.dll
